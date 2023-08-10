@@ -90,12 +90,3 @@ main h1 {
   border: 2px solid #333333; 
 }
 
-@media (max-width: 500px) {
-  main h1 {
-    font-size: 50px;
-    padding: 0 40px;
-  }
-
-  .supporting .col {
-    width: 100%;
-  }
