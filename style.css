@@ -66,13 +66,13 @@ nav {
  #Introduction{
    width:90%;
    color: #fff;
-   position: absolute;
+   margin: 20px auto;
  }
  #Introduction h2{
    font-size: 18px;
  }
  #Introduction p{
-   margin: 20px 20px;
+   margin: 20px 0;
    font-size: 14px;
    color: #fff;
  }
@@ -80,26 +80,26 @@ nav {
  #Coursework{
    width:90%;
    color: #fff;
-   position: absolute;
+   margin: 20px auto;
  }
  #Coursework h3{
    font-size: 16px;
  }
  #Coursework ol{
-   margin: 20px 20px;
+   margin: 20px 0;
    font-size: 14px;
    color: #fff;
  }
  #Projects{
    width:90%;
    color: #fff;
-   position: absolute;
+   margin: 20px auto;
  }
  #Projects h3{
    font-size: 16px;
  }
  #Projects p{
-   margin: 20px 20px;
+   margin: 20px 0;
    font-size: 14px;
    color: #fff;  
 }
