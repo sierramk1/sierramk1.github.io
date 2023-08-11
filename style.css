@@ -78,15 +78,32 @@ nav {
   color: #fff;
 }
 
-
-
-
 #Courseworks{
-  
+  width:90%;
+  color: #fff;
+  position: absolute;
+}
+#Courseworks h3{
+  font-size: 16px;
+}
+#Courseworks ol{
+  margin: 20px 20px;
+  font-size: 14px;
+  color: #fff;
 }
 #Projects{
+  width:90%;
+  color: #fff;
+  position: absolute;
 }
-
+#Projects h3{
+  font-size: 16px;
+}
+#Projects p{
+  margin: 20px 20px;
+  font-size: 14px;
+  color: #fff;
+}
 .linkedin-btn{
   display: inline-block;
   text-decoration: none;
