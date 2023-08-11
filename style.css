@@ -11,10 +11,11 @@ body {
     background-repeat: no-repeat;
     z-index: -1;
     font-family: 'Poppins', sans-serif;
+    margin: 0;
   
 }
 .header {
-  min-height: 100;
+  min-height: 100vh;
   position: relative;
   width: 100%;
   z-index: 5;
