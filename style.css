@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  font-family: 'Poppins', sans-serif;
 }
 body {
     background-color: #D3D3D3;
@@ -32,7 +33,6 @@ nav {
   padding: 2% 6%;
   justify-content: space-betweem;
   align-items: center;
-  background-color: #9BDDFF;
 }
 .nav-links{
   flex: 1;
