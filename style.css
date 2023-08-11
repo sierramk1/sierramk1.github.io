@@ -12,10 +12,6 @@ body {
     z-index: -1;
   
 }
-.head {
-  margin-bottom: 20px;
-  font-family: Georgia, serif;
-}
 .header {
   min-height: 100;
   position: relative;
