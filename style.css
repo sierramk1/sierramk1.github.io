@@ -78,9 +78,29 @@ nav {
   color: #fff;
 }
 
+
+
+
 #Courseworks{
   
 }
 #Projects{
+}
+
+.linkedin-btn{
+  display: inline-block;
+  text-decoration: none;
+  color #fff;
+  border: 1px solid #fff;
+  padding: 10px 15px;
+  font-size: 10px;
+  background: transparent;
+  position: relative;
+  cursor: pointer;
+}
+.linkedin-btn:hover{
+  border: 1px solid #9BDDFF;
+  background: #9BDDFF;
+  transition: 1s;
 }
 
