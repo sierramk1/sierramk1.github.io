@@ -5,20 +5,20 @@
 body {
     background-color: #D3D3D3;
 }
-head {
+.head {
   margin-bottom: 20px;
   font-family: Georgia, serif;
 }
-header {
+.header {
   min-height: 100;
-  position: fixed;
+  position: relative;
   width: 100%;
   z-index: 5;
   background-image: url(columbia blue.jpeg);
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat;
-  opacity: 0.5;
+  opacity: 0.7;
 }
 nav {
   display: flex;
