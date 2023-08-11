@@ -32,6 +32,8 @@ nav {
   justify-content: space-betweem;
   align-items: center;
   text-align: left;
+  font-weight: bold;
+  font-size: 20px;
 }
 .nav-links{
   flex: 1;
