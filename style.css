@@ -33,7 +33,7 @@ nav {
   align-items: center;
   text-align: left;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 25px;
 }
 .nav-links{
   flex: 1;
@@ -68,8 +68,16 @@ nav {
   width:90%;
   color: #fff;
   position: absolute;
-
 }
+#Introduction h2{
+  font-size: 18px;
+}
+#Introduction p{
+  margin: 20px 20px;
+  font-size: 14px;
+  color: #fff;
+}
+
 #Courseworks{
   
 }
