@@ -63,42 +63,42 @@ nav {
   width: 100%;
 }
 
-#Introduction{
+.Introduction{
   width:90%;
   color: #fff;
   position: absolute;
 }
-#Introduction h2{
+.Introduction h2{
   font-size: 18px;
 }
-#Introduction p{
+.Introduction p{
   margin: 20px 20px;
   font-size: 14px;
   color: #fff;
 }
 
-#Coursework{
+.Coursework{
   width:90%;
   color: #fff;
   position: absolute;
 }
-#Coursework h3{
+.Coursework h3{
   font-size: 16px;
 }
-#Coursework ol{
+.Coursework ol{
   margin: 20px 20px;
   font-size: 14px;
   color: #fff;
 }
-#Projects{
+.Projects{
   width:90%;
   color: #fff;
   position: absolute;
 }
-#Projects h3{
+.Projects h3{
   font-size: 16px;
 }
-#Projects p{
+.Projects p{
   margin: 20px 20px;
   font-size: 14px;
   color: #fff;
