@@ -79,7 +79,7 @@ nav {
    display: flex;
    align-items: center;
  }
- #Introduction p img{
+ #Introduction img{
    max-width: 120px; 
    margin-right: 10px;
  }
