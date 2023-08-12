@@ -122,16 +122,8 @@ nav {
    width: 90%;
    color: #3C3C3C;
    list-style: none;
-   display: inline-block;
-   border: 1px solid #fff;
-   padding: 10px 15px;
-   font-size: 12px;
-   background: transparent;
-   text-align: center;
-   flex: 1;
-   margin: 0 5px;
-   cursor: pointer;
  }
+
 .linkedin-btn{
   display: inline-block;
   text-decoration: none;
