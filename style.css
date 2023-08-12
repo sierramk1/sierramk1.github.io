@@ -64,7 +64,7 @@ nav {
  #Introduction{
    width: 70%;
    color: #3C3C3C;
-   margin: 20px auto;
+   margin: auto;
    margin-top: 20px;
  }
    
@@ -73,7 +73,7 @@ nav {
    font-size: 22px;
  }
  #Introduction p{
-   margin: 20px auto;
+   margin: auto;
    font-size: 18px;
    color: #3C3C3C;
    display: flex;
@@ -87,7 +87,7 @@ nav {
  #Coursework{
    width:70%;
    color: #3C3C3C;
-   margin: 20px auto;
+   margin: auto;
    margin-top: 20px;
  }
  #Coursework h3{
@@ -95,7 +95,7 @@ nav {
    font-size: 22px;
  }
  #Coursework ol{
-   margin: 20px auto;
+   margin: auto;
    font-size: 18px;
    color: #3C3C3C;
    width: 90%;
@@ -103,7 +103,7 @@ nav {
  #Projects{
    width:70%;
    color: #3C3C3C;
-   margin: 20px auto;
+   margin: auto;
    margin-top: 20px;
  }
  #Projects h3{
@@ -111,7 +111,7 @@ nav {
    font-size: 22px;
  }
  #Projects p{
-   margin: 20px auto;
+   margin: auto;
    font-size: 18px;
    color: #3C3C3C;  
 }
