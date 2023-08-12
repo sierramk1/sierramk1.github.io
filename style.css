@@ -62,50 +62,47 @@ nav {
  }
 
  #Introduction{
-   font-weight: bold;
-   font-size:20px;
    width: 70%;
    color: #3C3C3C;
    margin: 20px auto;
  }
  #Introduction h2{
-   font-size: 18px;
+   font-weight: bold;
+   font-size: 22px;
  }
  #Introduction p{
    margin: 20px auto;
-   font-size: 14px;
+   font-size: 18px;
    color: #3C3C3C;
  }
 
  #Coursework{
-   font-weight: bold;
-   font-size:20px;
-   width:60%;
+   width:70%;
    color: #3C3C3C;
    margin: 20px auto;
  }
  #Coursework h3{
-   font-size: 16px;
+   font-weight: bold;
+   font-size: 22px;
  }
  #Coursework ol{
    margin: 20px auto;
-   font-size: 14px;
+   font-size: 18px;
    color: #3C3C3C;
    width: 90%;
  }
  #Projects{
-   font-weight: bold;
-   font-size:20px;
-   width:50%;
+   width:70%;
    color: #3C3C3C;
    margin: 20px auto;
  }
  #Projects h3{
-   font-size: 16px;
+   font-weight: bold;
+   font-size: 22px;
  }
  #Projects p{
    margin: 20px auto;
-   font-size: 14px;
+   font-size: 18px;
    color: #3C3C3C;  
 }
  #Contact {
