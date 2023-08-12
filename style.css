@@ -73,7 +73,7 @@ nav {
    font-size: 22px;
  }
  #Introduction p{
-   margin: auto;
+   margin: 0;
    font-size: 18px;
    color: #3C3C3C;
    display: flex;
@@ -81,7 +81,8 @@ nav {
  }
  #Introduction img{
    max-width: 120px; 
-   margin-right: 10px;
+   float: right;
+   margin: 0 0 10px 10px;
  }
 
  #Coursework{
@@ -119,9 +120,10 @@ nav {
    margin: auto;
    width: 90%;
    color: #3C3C3C;
+   text-align: center;
  }
 .linkedin-btn{
-  display: block;
+  display: inline-block;
   text-decoration: none;
   color: #fff;
   border: 1px solid #fff;
@@ -130,7 +132,7 @@ nav {
   background: transparent;
   position: relative;
   cursor: pointer;
-  margin: 0 auto;
+  margin: 0 5px;
   text-align: center;
   flex:1;
   
