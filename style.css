@@ -67,7 +67,11 @@ nav {
    margin: auto;
    margin-top: 20px;
  }
-   
+ #Introduction .intro-content {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
  #Introduction h2{
    font-weight: bold;
    font-size: 22px;
@@ -76,13 +80,11 @@ nav {
    margin: 0;
    font-size: 18px;
    color: #3C3C3C;
-   display: flex;
-   align-items: center;
+   flex: 1;
  }
  #Introduction img{
    max-width: 120px; 
-   float: right;
-   margin: 0 0 10px 10px;
+   margin: 0 10px 10px 0;
  }
 
  #Coursework{
@@ -135,6 +137,7 @@ nav {
   margin: 0 5px;
   text-align: center;
   flex:1;
+  list-style: none; 
   
 }
 .linkedin-btn:hover{
@@ -142,8 +145,6 @@ nav {
   background: #9BDDFF;
   transition: 1s;
 }
-.linkedin-btn ul li{
-  list-style: none; 
-}
+
 
 
