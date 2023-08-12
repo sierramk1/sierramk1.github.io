@@ -118,6 +118,7 @@ nav {
   position: relative;
   cursor: pointer;
   margin: 0 auto;
+  text-align: center;
   
 }
 .linkedin-btn:hover{
