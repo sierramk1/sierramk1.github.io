@@ -68,7 +68,7 @@ nav {
    display: flex;
    align-items: center;
  }
- #Introduction{
+ #Introduction img{
    max-width: 100px; 
    margin-right: 10px;
  }  
