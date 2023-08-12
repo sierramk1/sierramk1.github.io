@@ -19,6 +19,7 @@ body {
   position: relative;
   width: 100%;
   z-index: 5;
+  color: #9BDDFF;
   background-image: url(columbia blue.jpeg);
   background-size: cover; 
   background-position: center; 
@@ -89,6 +90,7 @@ nav {
    margin: 20px auto;
    font-size: 14px;
    color: #fff;
+   width: 90%;
  }
  #Projects{
    width:90%;
