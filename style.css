@@ -123,6 +123,7 @@ nav {
    width: 90%;
    color: #3C3C3C;
    text-align: center;
+   list-style: none; 
  }
 .linkedin-btn{
   display: inline-block;
@@ -138,7 +139,6 @@ nav {
   text-align: center;
   flex:1;
   list-style: none; 
-  
 }
 .linkedin-btn:hover{
   border: 1px solid #9BDDFF;
