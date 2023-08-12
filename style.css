@@ -105,8 +105,13 @@ nav {
    font-size: 14px;
    color: #fff;  
 }
+ #Contact {
+   margin: auto;
+   width: 90%;
+   color: 
+ }
 .linkedin-btn{
-  display: inline-block;
+  display: block;
   text-decoration: none;
   color: #fff;
   border: 1px solid #fff;
@@ -115,6 +120,8 @@ nav {
   background: transparent;
   position: relative;
   cursor: pointer;
+  margin: 0 auto;
+  
 }
 .linkedin-btn:hover{
   border: 1px solid #9BDDFF;
