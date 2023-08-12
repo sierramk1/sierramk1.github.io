@@ -65,7 +65,13 @@ nav {
    width: 70%;
    color: #3C3C3C;
    margin: 20px auto;
+   display: flex;
+   align-items: center;
  }
+ #Introduction{
+   max-width: 100px; 
+   margin-right: 10px;
+ }  
  #Introduction h2{
    font-weight: bold;
    font-size: 22px;
