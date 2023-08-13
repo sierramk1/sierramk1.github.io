@@ -67,6 +67,14 @@ nav {
    margin: auto;
    margin-top: 20px;
  }
+
+ .line {
+   width: 50 px;
+   height: 0;
+   border: 1px solid #3C3C3C;
+   margin: 3px;
+   display:inline-block;
+}
  #Introduction .intro-content {
   display: flex;
   align-items: center;
@@ -123,6 +131,7 @@ nav {
    color: #3C3C3C;
    text-align: center;
    list-style: none;
+   margin: auto;
  }
 
 .linkedin-btn{
