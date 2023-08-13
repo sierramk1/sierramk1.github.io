@@ -108,15 +108,14 @@ nav {
    margin: auto;
    margin-top: 20px;
  }
+ #list{
+   width:60%;
+   font-size: 18px;
+   color: #3C3C3C;
+ }
  #Coursework h3{
    font-weight: bold;
    font-size: 22px;
- }
- #Coursework ol{
-   margin: auto;
-   font-size: 18px;
-   color: #3C3C3C;
-   width: 60%;
  }
  #Projects{
    width:70%;
