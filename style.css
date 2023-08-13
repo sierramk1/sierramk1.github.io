@@ -88,7 +88,7 @@ nav {
 }
  #Introduction h3{
    font-weight: bold;
-   font-size: 22px;
+   font-size: 24px;
  }
  #Introduction p{
    margin: 0;
@@ -104,8 +104,8 @@ nav {
  #Coursework{
    width:70%;
    color: #3C3C3C;
-   margin: auto;
    margin-top: 20px;
+   margin-bottom: 20px;
  }
  #Coursework h3{
    font-weight: bold;
@@ -115,13 +115,13 @@ nav {
    margin: auto;
    font-size: 18px;
    color: #3C3C3C;
-   width: 90%;
+   width: 80%;
  }
  #Projects{
    width:70%;
    color: #3C3C3C;
-   margin: auto;
    margin-top: 20px;
+   margin-bottom: 20px;
  }
  #Projects h3{
    font-weight: bold;
