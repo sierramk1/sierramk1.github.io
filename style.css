@@ -97,11 +97,15 @@ nav {
    flex: 1;
  }
  #Introduction img{
-   max-width: 120px; 
+   max-width: 150px; 
    margin: 0 10px 10px 0;
-   border: 2px solid #333;
+   border: 2px solid #fff;
  }
-
+ .Columbia-Pics img{
+   max-width: 200px; 
+   margin: 0 10px 10px 0;
+   border: 2px solid #fff;
+ }
  #Coursework{
    width:70%;
    color: #3C3C3C;
