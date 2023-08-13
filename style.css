@@ -109,8 +109,8 @@ nav {
  }
  .Columbia-Pics img{
    max-width: 200px; 
-   margin: 0 10px 10px 0;
-   border: 2px solid #fff;
+   margin: 0 10px 0 10px;
+   border: 2px double transparent #fff;
  }
  #Coursework{
    width:70%;
@@ -139,6 +139,7 @@ nav {
    font-size: 22px;
  }
  #Projects p{
+   margin-top: 20px;
    margin: auto;
    font-size: 18px;
    color: #3C3C3C;  
@@ -150,6 +151,7 @@ nav {
    list-style: none;
    margin: auto;
    padding-bottom: 20px;
+   margin-bottom: 20px;
  }
 
 .linkedin-btn{
