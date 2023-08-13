@@ -104,13 +104,15 @@ nav {
  #Coursework{
    width:70%;
    color: #3C3C3C;
+   margin: auto;
+   margin-top: 20px;
  }
  #Coursework h3{
    font-weight: bold;
    font-size: 22px;
  }
  #Coursework ol{
-   margin-top: 20px;
+   margin: auto;
    font-size: 18px;
    color: #3C3C3C;
    width: 70%;
@@ -118,6 +120,7 @@ nav {
  #Projects{
    width:70%;
    color: #3C3C3C;
+   margin: auto;
    margin-top: 20px;
  }
  #Projects h3{
