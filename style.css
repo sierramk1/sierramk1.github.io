@@ -102,6 +102,7 @@ nav {
    border: 2px solid #fff;
  }
  .Columbia-Pics{
+   border: 2px solid #fff;
    display: flex;
    justify-content: center; 
    align-items: center;
