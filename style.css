@@ -100,7 +100,7 @@ nav {
    max-width: 180px;
    margin: 0 10px 10px 0;
    border: 2px solid #fff;
-   border-radius: 30%;
+   border-radius: 20%;
  }
  .Columbia-Pics{
    display: flex;
@@ -111,7 +111,7 @@ nav {
    max-width: 250px; 
    margin: 0 10px 0 10px;
    border: 4px solid #fff;
-   border-radius:30%;
+   border-radius:20%;
  }
  #Coursework{
    width:70%;
