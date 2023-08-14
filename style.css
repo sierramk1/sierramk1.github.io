@@ -100,6 +100,7 @@ nav {
    max-width: 180px; 
    margin: 0 10px 10px 0;
    border: 2px solid #fff;
+   border-radius: 30%;
  }
  .Columbia-Pics{
    display: flex;
