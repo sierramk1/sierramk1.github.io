@@ -168,7 +168,7 @@ nav {
   border: none;
   cursor: pointer;
   transition: background-color 0.3s;
-  margin-right: 10px;
+  margin-right: 20px;
   margin: auto;
 }
 .pdf:hover{
