@@ -151,10 +151,9 @@ nav {
    color: #3C3C3C;
    text-align: center;
    list-style: none;
-   padding-bottom: 20px;
    margin-bottom: 20px;
    margin-top: 20px;
-   padding-top: 20px;
+   display: block;
 }
 .pdf{
   display: inline-block;
