@@ -135,6 +135,12 @@ nav {
   font-size: 18px;
   font-style: italic;
  }
+ #Education .school p.degree .years {
+  font-style: normal;      
+  color: #3C3C3C;
+  margin-left: 5px;        
+  font-weight: normal;
+ }
  #Education .school p.gpa {
   margin-left: 20px;
   font-size: 16px;
