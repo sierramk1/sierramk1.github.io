@@ -119,6 +119,13 @@ nav {
    margin: auto;
    margin-top: 20px;
  }
+ #Education ul {
+  list-style-type: disc;
+  font-size: 18px;
+  color: #3C3C3C;
+  margin-top: 20px;
+  margin-left: 20px;
+ }
  #Coursework{
    width:70%;
    color: #3C3C3C;
