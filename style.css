@@ -125,6 +125,10 @@ nav {
    color: #3C3C3C;
    margin-top: 20px;
  }
+  #list ul ul {
+    margin-left: 20px;       /* indent sublists */
+    list-style-type: square; /* different bullet style for sublists */
+  }
  #Coursework h3{
    font-weight: bold;
    font-size: 22px;
