@@ -113,6 +113,12 @@ nav {
    border-radius:10%;
    margin-right: 30px;
  }
+ #Education{
+   width:70%;
+   color: #3C3C3C;
+   margin: auto;
+   margin-top: 20px;
+ }
  #Coursework{
    width:70%;
    color: #3C3C3C;
