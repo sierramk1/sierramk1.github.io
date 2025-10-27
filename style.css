@@ -126,6 +126,11 @@ nav {
   margin-top: 20px;
   margin-left: 20px;
  }
+ #Education h3 {
+  font-weight: bold;
+  font-size: 22px;
+  margin-bottom: 20px;
+ }
  #Coursework{
    width:70%;
    color: #3C3C3C;
