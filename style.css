@@ -119,9 +119,20 @@ nav {
    margin: auto;
    margin-top: 40px;
  }
- #Education h3{
-   font-weight: bold;
-   font-size: 22px;
+ #Education .school p:first-child { /* University */
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 5px;
+ }
+ #Education .school p.degree {
+  margin-left: 20px;
+  font-size: 18px;
+  font-style: italic;
+ }
+ #Education .school p.gpa {
+  margin-left: 20px;
+  font-size: 16px;
+  color: #3C3C3C;
  }
  #Coursework{
    width:70%;
