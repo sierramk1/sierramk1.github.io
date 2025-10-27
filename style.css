@@ -119,6 +119,12 @@ nav {
    margin: auto;
    margin-top: 40px;
  }
+ #Education h3 {
+  font-weight: bold;    
+  font-size: 22px;      
+  margin-bottom: 20px;  
+  color: #3C3C3C;      
+}
  #Education .school p:first-child { /* University */
   font-weight: bold;
   font-size: 20px;
