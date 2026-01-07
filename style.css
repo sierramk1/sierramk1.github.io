@@ -88,9 +88,13 @@ nav {
 }
  #Introduction p{
    margin: 0;
-   font-size: 18px;
+   font-size: 20px;
    color: #3C3C3C;
    margin-bottom: 15px; /* Add space between paragraphs */
+ }
+ #Introduction h3{
+   font-weight: bold;
+   font-size: 24px;
  }
  #Introduction img{
    max-width: 180px;
@@ -205,5 +209,4 @@ nav {
   padding: 10px 20px;
   background-color: #007bff;
   color: #fff;
-  text-decoration: none;
-  border-
+  text-decoratio
