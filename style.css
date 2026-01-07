@@ -89,11 +89,14 @@ nav {
    font-weight: bold;
    font-size: 24px;
  }
+ #Introduction .intro-content .text-content {
+  flex: 1;
+  margin-right: 20px;
+}
  #Introduction p{
    margin: 0;
    font-size: 18px;
    color: #3C3C3C;
-   flex: 1;
  }
  #Introduction img{
    max-width: 180px;
