@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year M.S. student in Biostatistics at the University of Michigan School of Public Health. My interests lie at the intersection of statistics, computing, and public health, with a particular interest in developing and applying statistical methods to better understand complex health data.
+I am a second-year M.S. student in Biostatistics at the University of Michigan School of Public Health. I first became interested in the intersection of data science and public health through the course Data Science and Health Equity, where I saw how statistical and computational methods could be applied to questions in public health. This led me to pursue biostatistics, where I am interested in using statistical methods to better understand complex health data and contributing to collaborative public health research.
 
 My research interests include high-dimensional data analysis, machine learning, data integration, survival analysis, and Bayesian methods. I am particularly interested in approaches that balance model complexity, stability, and interpretability. I am currently working on network-based statistical models for high-dimensional lipidomics data to study lipid signatures associated with chronic kidney disease.
 
